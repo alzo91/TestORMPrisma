@@ -4,3 +4,6 @@ dist/
 
 # Keep environment variables out of version control
 .env
+
+yarn-error.log
+yarn.lock
